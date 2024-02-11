@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/gcsoomlulehg9gla?svg=true)](https://ci.appveyor.com/project/SSKulikov/components)
+
 Страница интернет-магазина
 ===
 
